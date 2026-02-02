@@ -1,0 +1,7 @@
+*.exe
+*.exe~
+*.dll
+
+.idea/
+.vscode/
+vendor/
